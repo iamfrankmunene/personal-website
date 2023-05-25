@@ -521,3 +521,14 @@ video {
   --tw-backdrop-saturate:  ;
   --tw-backdrop-sepia:  ;
 }
+
+.text-right {
+  text-align: right;
+}
+
+/* @layer utilities{
+    .bg-image{
+        background-image: url("../img/big-world.jpg");
+        background-color: linear-gradient(to top,rgb(250, 169, 234), red);
+    }
+} */
